@@ -8,7 +8,7 @@ author:
 description: Nina Weng's homepage. Welcome! # description of your site
 
 # url: "https://jekyll-academic.netlify.app" # The base hostname & protocol for your site, e.g. http://example.com
-url: "https://nina-weng.github.io/ninavv-homepage/"
+url: "https://nina-weng.github.io/"
 baseurl: "" # The subpath of your site, e.g. /blog
 
 jekyllacademic:
