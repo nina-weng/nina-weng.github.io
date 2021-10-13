@@ -1,0 +1,47 @@
+title: Nina Weng
+navbar_title: Nina Weng
+
+author:
+  name: nina # Your name
+  email: niweng@student.ethz.com
+
+description: Nina Weng's homepage. Welcome! # description of your site
+
+# url: "https://jekyll-academic.netlify.app" # The base hostname & protocol for your site, e.g. http://example.com
+url: "ninavv-homepage"
+baseurl: "" # The subpath of your site, e.g. /blog
+
+jekyllacademic:
+  homepage_title: "Hello there" # Your homepage title
+  disqusname: "Welcome to Nina Wengs homepage.\nThis wonderland is under construction...\nPlease be patient!" # Your disqus sitename
+  footer: Nina Weng, 2021 # Your name, Year
+  contentlicense: "MIT" # Choose either one of these to put: MIT, Commons Clause, CC BY 4.0, CC BY-NC 4.0, CC BY-ND 4.0, CC BY-NC-ND 4.0, CC BY-NC-SA 4.0, CC BY-NC-SA 4.0, CC BY-SA 4.0
+  socials:
+    # twitter: twitter # Your twitter username
+    github: nina-weng # Your github username
+    linkedin: nina-weng-a244b2210 # Your linkedin
+    # keybase: keybase # Your keybase
+
+# No need to edit this part, however if you want to, that's fine as well
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /academic/:title
+  projects:
+    output: true
+    permalink: /:collection/:title
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

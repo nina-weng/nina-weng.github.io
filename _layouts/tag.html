@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div class="posts">
+  <h1 style="color: #cc0000;">Tag #{{page.tag}}</h1>
+  <ul>
+    {% for post in site.posts %}
+    {% if post.tags contains page.tag %}
+    <h2>
+      <a style="color: black;" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    <!-- <p>{{ post.stack}}</p>
+          <p>{{ post.snippet}}</p> -->
+    <p>{{ post.details}}</p>
+    <p><em>{{ post.placetime}}</em></p>
+    <p>{{ post.description}}</p>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+<hr>
+  <a href="{{ site.url }}/academic"> Back </a>
