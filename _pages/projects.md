@@ -1,4 +1,9 @@
 ---
-layout: projects
+# layout: 'projects'
+layout: blog
+title: 'Projects'
 ---
-hafhdjk
+
+
+
+

@@ -9,7 +9,7 @@ description: "<ul>
     <li>More to read in this website [<a href = 'http://www.student.dtu.dk/~s192159/social_data_report/homepage.html' style='color:#800000'>link</a>]</li>
 </ul>"
 order: 1
-tags: [Network modeling]
+tags: [Network Modeling]
 ---
 
 

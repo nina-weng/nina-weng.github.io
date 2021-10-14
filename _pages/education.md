@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 <h1 style="color: #cc0000;">Education</h1>
 
 <h2><b>ETH Zürich, Department of Health Sciences and Technology (D-HEST)</b></h2>
@@ -50,3 +51,18 @@ layout: default
 
 </ul>
 </p>
+
+<table>
+<tr>
+    <td><img alt="" src="./assets/pics/edu/zurich_1.jpg" onMouseOver="this.src='./assets/pics/edu/zurich_2.jpg'" onMouseOut="this.src='./assets/pics/edu/zurich_1.jpg'" height="200"></td>
+    <td><img alt="" src="./assets/pics/edu/denmark_1.jpg" onMouseOver="this.src='./assets/pics/edu/denmark_2.jpg'" onMouseOut="this.src='./assets/pics/edu/denmark_1.jpg'" height="200"></td> 
+    <td><img alt="" src="./assets/pics/edu/beijing_1.jpg" onMouseOver="this.src='./assets/pics/edu/beijing_2.jpg'" onMouseOut="this.src='./assets/pics/edu/beijing_1.jpg'" height="200"></td>
+    <td><img alt="" src="./assets/pics/edu/italy_1.jpg" onMouseOver="this.src='./assets/pics/edu/italy_2.jpg'" onMouseOut="this.src='./assets/pics/edu/italy_1.jpg'" height="200"></td>
+  </tr>
+  <tr>
+    <td><b>Switzerland</b><br/>In Zermart/With Rhino</td>
+    <td><b>Denmark</b><br/>Container Dinner/With snow</td> 
+    <td><b>China</b><br/>Back in middle school with friends/Pretend I study in Hogwarts</td>
+    <td><b>Italy</b><br/>City running for women support/On the train</td>
+  </tr>
+</table>

@@ -1,11 +1,13 @@
 links:
   - title: Education
     url: /education
-  - title: Academic Experience
-    url: /academic
+  - title: Projects
+    url: /projects
   - title: Skills
     url: /skills
   - title: Social Activities
     url: /social
   - title: Cats Collection
     url: /cats
+  - title: Contact
+    url: /contact
