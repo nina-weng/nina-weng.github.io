@@ -6,7 +6,7 @@ layout: default
 
 <code>The strict subset of cats I met before:)</code>
 
-<img src="./assets/pics/cats/zur002.jpg" alt="zur002" width="300">
+<img src="./assets/pics/cats/zur002.jpg" alt="zur002" width="300" title='She bit me after I took this picture. (Zurich, Sep 2021)'>
 <p style='color:grey'>She bit me after I took this picture. (Zurich, Sep 2021)</p>
 <br/>
 
