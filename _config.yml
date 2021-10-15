@@ -8,8 +8,8 @@ author:
 description: Nina Weng's homepage. Welcome! # description of your site
 
 # url: "https://jekyll-academic.netlify.app" # The base hostname & protocol for your site, e.g. http://example.com
-url: "https://nina-weng.github.io/"
-baseurl: "" # The subpath of your site, e.g. /blog
+url: "http://ninaweng.net"
+baseurl: ""# The subpath of your site, e.g. /blog
 
 jekyllacademic:
   homepage_title: "Hello there" # Your homepage title
@@ -37,10 +37,10 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /academic/:title
+    permalink: /projects/:title
   projects:
     output: true
-    permalink: /:collection/:title
+    permalink: /projects_tmp/:title
 
 plugins:
   - jekyll-sitemap
