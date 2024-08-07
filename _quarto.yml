@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nina Weng"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pub
+        text: Publications
+      - href: blog
+        text: Blogs
+      - href: misc
+        text: Miscellaneous
+  page-footer:
+    left: "(c) Nina Weng, built with quarto. Last update: Aug 2024."
+
+format:
+  html:
+    theme:
+      light: cosmo
+    toc: false
+
+editor: visual
+

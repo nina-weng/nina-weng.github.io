@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "pub/index.html",
+    "href": "pub/index.html",
+    "title": "Nina Weng",
+    "section": "",
+    "text": "Publications\n\nSlicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods V. Olesen, N. Weng, A. Feragen, E. Petersen. In Workshop on Fairness of AI in Medical Imaging (FAIMI) @ MICCAI, 2024. [arXiv]   [code available soon]\nNon-discrimination Criteria for Generative Language Models S. Sterlie, N. Weng, A. Feragen In Workshop on Fairness and ethics towards transparent AI: facing the chalLEnge through model Debiasing @ ECCV, 2024. [arXiv]   [code available soon]\nShortcut Learning in Medical Image Segmentation M. Lin*, N. Weng*, K. Mikolaj, Z. Bashir, M. B. S. Svendsen, M. Tolsgaard, A. N. Christensen, A. Feragen (*equal contribution) In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024. [arXiv]   [code]\nFast diffusion-based counterfactuals for shortcut removal and generation N. Weng*, P. Pegios*, E. Petersen, A. Feragen, S. Bigdeli (*equal contribution) In European Conference on Computer Vision (ECCV), 2024. [arXiv]   [project page]   [code]\nAre Sex-Based Physiological Differences the Cause of Gender Bias for Chest X-Ray Diagnosis? N. Weng, S. Bigdeli, E. Petersen, A. Feragen In Workshop on Fairness of AI in Medical Imaging (FAIMI) @ MICCAI, 2023. [pdf]   [code]\nAn Interpretable and Attention-based Method for Gaze Estimation Using Electroencephalography N. Weng, M. B. Płomecka, M. Kaufmann, A. Kastrati, R. Wattenhofer, N. Langer In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023. [pdf]\nWill you ever become popular? learning to predict virality of dance clips J. Wang, Y. Wang, N. Weng, T. Chai, A. Li, F. Zhang, S. Yu In ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM). [pdf]\nA Second-Order Adaptive Network Model for Exam-Related Anxiety Regulation I. Barradas*, A. Kloc*, N. Weng*, J. Treur (*equal contribution) In Biologically Inspired Cognitive Architectures Meeting, 2021. [pdf]\nTwo-stream temporal convolutional network for dynamic facial attractiveness prediction N. Weng, J. Wang, A. Li, Y. Wang In International Conference on Pattern Recognition (ICPR), 2020. [pdf]\n\n\n\nPre-prints\n\nDiffusion-based Iterative Counterfactual Explanations for Fetal Ultrasound Image Quality Assessment P. Pegios, M. Lin, N. Weng, M. B. S. Svendsen, Z. Bashir, S. Bigdeli, A. N. Christensen, M. Tolsgaard, A.Feragen [arXiv]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nina Weng",
+    "section": "",
+    "text": "About me\nI am a second year PhD student working on Algorithmic Fairness in Medical Imaging at Section for Visual Computing (VisComp), Technical University of Denmark (DTU), advised by Aasa Feragen and Siavash Bigdeli.\nMy research topics include bias assessment and reasoning, counterfactual generation, shortcut learning detection, and bias mitigation. I aim to build fair, transparent, trustworthy, and responsible AI tools."
+  },
+  {
+    "objectID": "misc/index.html",
+    "href": "misc/index.html",
+    "title": "Nina Weng",
+    "section": "",
+    "text": "Academic services\n\n\n\nConference/Workshop Reviewer:    \n\n\nXAI4CV (workshop @ CVPR), 2024MICCAI, 2024FAIMI (workshop @ MICCAI), 2024eXCV (workshop @ ECCV), 2024\n\n\n\n\nStudent Project Supervisor:\n\n\nV. Olesen, Master’s level special course: Hidden Bias in Chest X-ray, 2023 S. Sterlie, Bachelor thesis: Gender Bias in Big Language Models, 2023 K. B. Ulbæk, Master’s level special course: Automatic Label Denoising, 2023 G. Nielsen, Bachelor thesis: Investigating Realism Score, 2024\n\n\n\n\nTeaching Assistant:\n\n\nDeep Learning, DTU, 2023 fall Responsible AI, DTU, 2024 spring\n\n\n\n\n\nVoluntary work\n\nLong-Legs Mailbox project (2022 - now), in supporting for left-behind children in rural areas in China.\nWomen in Tech (2020 - now), editor."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Nina Weng",
+    "section": "",
+    "text": "(Coming soon)"
+  }
+]

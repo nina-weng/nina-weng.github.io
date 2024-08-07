@@ -1,0 +1,32 @@
+---
+title: "Nina Weng"
+description: >
+  <br />
+  PhD Student<br />
+  [Section for Visual Computing](https://www.compute.dtu.dk/sections/viscom)<br />
+  [Dept. of Applied Mathematics and Computer Science](https://www.compute.dtu.dk/)<br />
+  [Technical University of Denmark](https://www.dtu.dk/english)<br />
+
+about:
+    template: solana
+    links:
+        - text: "{{< iconify academicons:google-scholar >}} Scholar"
+          url: https://scholar.google.com/citations?user=Os3OANQAAAAJ
+        - icon: github
+          text: Github
+          url: https://github.com/nina-weng/
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/nina-weng-a244b2210/
+        - text: "{{< iconify ic:baseline-email >}} Email"
+          url: mailto:ninwe@dtu.dk
+image: img/main_3.jpg
+---
+
+### About me
+I am a second year PhD student working on Algorithmic Fairness in Medical Imaging at Section for Visual Computing (VisComp), Technical University of Denmark (DTU), advised by [Aasa Feragen](https://www2.compute.dtu.dk/~afhar/) and [Siavash Bigdeli](https://people.compute.dtu.dk/sarbi/). 
+
+My research topics include bias assessment and reasoning, counterfactual generation, shortcut learning detection, and bias mitigation. I aim to build fair, transparent, trustworthy, and responsible AI tools. 
+
+
+

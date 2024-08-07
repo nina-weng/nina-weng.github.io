@@ -1,0 +1,54 @@
+
+
+### Publications
+
+- **Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods**<br />
+V. Olesen, <ins>N. Weng</ins>, A. Feragen, E. Petersen.<br />
+In Workshop on Fairness of AI in Medical Imaging (FAIMI) @ MICCAI, 2024.<br />
+[\[arXiv\]](https://arxiv.org/abs/2406.12142) &nbsp; [\[code available soon\]]()
+
+- **Non-discrimination Criteria for Generative Language Models**<br />
+S. Sterlie, <ins>N. Weng</ins>, A. Feragen<br />
+In Workshop on Fairness and ethics towards transparent AI: facing the chalLEnge through model Debiasing @ ECCV, 2024.<br />
+[\[arXiv\]](https://arxiv.org/abs/2403.08564) &nbsp; [\[code available soon\]]()
+
+- **Shortcut Learning in Medical Image Segmentation**<br />
+M. Lin\*, <ins>N. Weng</ins>\*, K. Mikolaj, Z. Bashir, M. B. S. Svendsen, M. Tolsgaard, A. N. Christensen, A. Feragen (\*equal contribution)<br />
+In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024.<br />
+[\[arXiv\]](https://arxiv.org/abs/2403.06748) &nbsp; [\[code\]](https://github.com/nina-weng/shortcut_skinseg)
+
+- **Fast diffusion-based counterfactuals for shortcut removal and generation**<br />
+<ins>N. Weng</ins>\*, P. Pegios\*, E. Petersen, A. Feragen, S. Bigdeli (\*equal contribution)<br />
+In European Conference on Computer Vision (ECCV), 2024.<br />
+[\[arXiv\]](https://arxiv.org/pdf/2312.14223) &nbsp; [\[project page\]](https://fastdime.compute.dtu.dk/) &nbsp; [\[code\]](https://github.com/nina-weng/FastDiME_Med)
+
+- **Are Sex-Based Physiological Differences the Cause of Gender Bias for Chest X-Ray Diagnosis?**<br />
+<ins>N. Weng</ins>, S. Bigdeli, E. Petersen, A. Feragen<br />
+In Workshop on Fairness of AI in Medical Imaging (FAIMI) @ MICCAI, 2023.<br />
+[\[pdf\]](https://link.springer.com/chapter/10.1007/978-3-031-45249-9_14) &nbsp; [\[code\]](https://github.com/nina-weng/detecting_causes_of_gender_bias_chest_xrays)
+
+- **An Interpretable and Attention-based Method for Gaze Estimation Using Electroencephalography**<br />
+<ins>N. Weng</ins>, M. B. Płomecka, M. Kaufmann, A. Kastrati, R. Wattenhofer, N. Langer<br />
+In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023.<br />
+[\[pdf\]](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_69) 
+
+- **Will you ever become popular? learning to predict virality of dance clips**<br />
+J. Wang, Y. Wang, <ins>N. Weng</ins>, T. Chai, A. Li, F. Zhang, S. Yu<br />
+In ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).<br />
+[\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3477533) 
+
+- **A Second-Order Adaptive Network Model for Exam-Related Anxiety Regulation**<br />
+I. Barradas\*, A. Kloc\*, <ins>N. Weng</ins>\*, J. Treur (\*equal contribution)<br />
+In Biologically Inspired Cognitive Architectures Meeting, 2021.<br />
+[\[pdf\]](https://link.springer.com/chapter/10.1007/978-3-030-96993-6_4) 
+
+- **Two-stream temporal convolutional network for dynamic facial attractiveness prediction**<br />
+<ins>N. Weng</ins>, J. Wang, A. Li, Y. Wang<br />
+In International Conference on Pattern Recognition (ICPR), 2020.<br />
+[\[pdf\]](https://ieeexplore.ieee.org/abstract/document/9413333/) 
+
+### Pre-prints
+
+- **Diffusion-based Iterative Counterfactual Explanations for Fetal Ultrasound Image Quality Assessment**<br />
+P. Pegios, M. Lin, <ins>N. Weng</ins>, M. B. S. Svendsen, Z. Bashir, S. Bigdeli, A. N. Christensen, M. Tolsgaard, A.Feragen<br />
+[\[arXiv\]](https://arxiv.org/abs/2403.08700)
