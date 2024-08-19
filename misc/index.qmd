@@ -1,3 +1,7 @@
+---
+title: Miscellaneous
+---
+
 #### Academic services
 
 <table border="0">
@@ -24,6 +28,6 @@
 #### Voluntary work
 
 - [Long-Legs Mailbox project](http://www.ctss.cn/) (2022 - now), in supporting for left-behind children in rural areas in China. 
-- [Women in Tech](https://womenintech.cn/) (2020 - now), editor.
+- [Women in Tech](https://womenintech.cn/) (2020 - now), editor and designer.
 
 

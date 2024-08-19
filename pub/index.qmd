@@ -1,10 +1,12 @@
-
+---
+title: Publications
+---
 
 ### Publications
 
 - **Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods**<br />
 V. Olesen, <ins>N. Weng</ins>, A. Feragen, E. Petersen.<br />
-In Workshop on Fairness of AI in Medical Imaging (FAIMI) @ MICCAI, 2024.<br />
+In Workshop on Fairness of AI in Medical Imaging (FAIMI) @ MICCAI, 2024. <span style="color:rgb(205, 93, 125)">***Oral presentation***</span>.<br />
 [\[arXiv\]](https://arxiv.org/abs/2406.12142) &nbsp; [\[code available soon\]]()
 
 - **Non-discrimination Criteria for Generative Language Models**<br />
@@ -19,7 +21,7 @@ In International Conference on Medical Image Computing and Computer-Assisted Int
 
 - **Fast diffusion-based counterfactuals for shortcut removal and generation**<br />
 <ins>N. Weng</ins>\*, P. Pegios\*, E. Petersen, A. Feragen, S. Bigdeli (\*equal contribution)<br />
-In European Conference on Computer Vision (ECCV), 2024.<br />
+In European Conference on Computer Vision (ECCV), 2024. <span style="color:rgb(205, 93, 125)">***Oral presentation***</span>.<br />
 [\[arXiv\]](https://arxiv.org/pdf/2312.14223) &nbsp; [\[project page\]](https://fastdime.compute.dtu.dk/) &nbsp; [\[code\]](https://github.com/nina-weng/FastDiME_Med)
 
 - **Are Sex-Based Physiological Differences the Cause of Gender Bias for Chest X-Ray Diagnosis?**<br />

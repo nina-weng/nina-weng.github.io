@@ -8,6 +8,7 @@ description: >
   [Technical University of Denmark](https://www.dtu.dk/english)<br />
 
 about:
+    id: heading
     template: solana
     links:
         - text: "{{< iconify academicons:google-scholar >}} Scholar"
@@ -20,13 +21,21 @@ about:
           url: https://www.linkedin.com/in/nina-weng-a244b2210/
         - text: "{{< iconify ic:baseline-email >}} Email"
           url: mailto:ninwe@dtu.dk
-image: img/main_3.jpg
+image: img/main.jpg
 ---
+:::{#heading}
+:::
 
 ### About me
 I am a second year PhD student working on Algorithmic Fairness in Medical Imaging at Section for Visual Computing (VisComp), Technical University of Denmark (DTU), advised by [Aasa Feragen](https://www2.compute.dtu.dk/~afhar/) and [Siavash Bigdeli](https://people.compute.dtu.dk/sarbi/). 
 
 My research topics include bias assessment and reasoning, counterfactual generation, shortcut learning detection, and bias mitigation. I aim to build fair, transparent, trustworthy, and responsible AI tools. 
+
+### News
+- **Aug, 2024**. Our paper, [*Fast Diffusion-Based Counterfactuals for Shortcut Removal and Generation*](https://fastdime.compute.dtu.dk/), has been accepted for an *oral presentation* at [ECCV](https://eccv.ecva.net/)! After a long journey filled with ups and downs, it’s incredibly rewarding to see our work recognized (so far a bit) by the conference community. Can not wait to present and have (hopefully many!) interesting discussions in Milan this September 🍕
+- **Aug, 2024**. After [more than one-year's procrastination](./img/news/pw_pro.png), I finally recreated my personal webpage (this one!). I used [Quarto](https://quarto.org/) to build it -- it's incredibly simple and includes the function to integrate code into the blogs, which I’m looking forward to trying out in a near (!) future.
+
+
 
 
 
