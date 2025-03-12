@@ -1,0 +1,33 @@
+---
+title: "Getting Started with *FairLearn* for Bias Assessment and Mitigation in Image Classification"
+date: 2024-09-19
+description: "*A beginner-friendly guide! Includes an exercise file to practice hands-on.*"
+categories: [Fairness]
+image: "support_files/thumbnails/fairlearn_dilemma.jpg" 
+---
+
+A beginner-friendly guide to using FairLearn for evaluating bias in image classification tasks and applying simple post-hoc mitigation methods. This comes as a course exercise from the **RAI course (02517 - Responsible AI: Algorithmic Fairness and Explainability)** at the Technical University of Denmark (DTU).
+
+### The toturial of using FairLearn for image classification task
+
+You can also access the `.ipynb` file from [here](https://github.com/nina-weng/RAI_fairness_exercise/blob/master/exercise.ipynb).
+
+<iframe src="support_files/exercise.html" width="100%" height="800px" sandbox="allow-scripts allow-same-origin">
+
+</iframe>
+
+### Some final remarks
+
+-   **Fairlearn** is not designed for image-based tasks, which makes its implementation cumbersome. A new Python-based package from the University of Oxford might be a good alternative: [OxonFair](https://arxiv.org/abs/2407.13710). While I have not personally tested it, I encourage anyone interested in an easier approach to fairness assessment to give it a try.
+
+-   For those exploring **algorithmic fairness**, especially in **bias mitigation**, I personally recommend avoiding excessive reliance on existing packages. This might be a biased opinion, but in my experience, while these tools offer many options, they often obscure the underlying mechanisms. It is easy to get caught up in hyperparameter tuning rather than developing a deep understanding of how bias manifests in the data.
+
+    That said, I recognize the value of these packages for those who need a quick and structured way to evaluate model fairness with minimal effort.
+
+-   **Bias mitigation** without understanding the **root cause** of bias is often ineffective. I recommend reading the following two papers for deeper insights:
+
+    -   [**Improving the Fairness of Chest X-ray Classifiers**](https://proceedings.mlr.press/v174/zhang22a.html).\
+        *TL;DR: Among various bias mitigation techniques, simple data balancing—despite being the most basic—consistently proves to be the most effective. This highlights that attempting to mitigate bias without first identifying its root cause is often futile.*
+
+    -   [**Are Sex-Based Physiological Differences the Cause of Gender Bias for Chest X-Ray Diagnosis?**](https://link.springer.com/chapter/10.1007/978-3-031-45249-9_14).\
+        *TL;DR: Gender-based performance disparities in chest X-ray diagnosis are* <b>not</b> primarily due to physiological differences but are more likely caused by variations in label error rates between genders. This finding suggests that mitigation strategies focusing solely on gender may divert efforts away from addressing the actual sources of bias.

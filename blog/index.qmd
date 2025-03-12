@@ -1,5 +1,30 @@
 ---
 title: Blogs
+
+resources: 
+  - "./exercise.html"
+  - /blog/posts/support_files/
+  
+listing:
+  contents: posts
+  sort: "date desc"  # Sort newest posts first
+  # type: default
+  type: grid
+  # grid-columns: 3
+  categories: true  # Enable filtering by category
+  # fields: [ title, date, description]
+  fields: [image, title, date, description]
+  # image-height: "300px"
+  
+format:
+  html:
+    page-layout: full  # Makes the page wider
+    
+
 ---
 
-(Coming soon, I promise)
+
+"I don’t know what I think until I write it down." <br />
+— *Joan Didion, The White Album*
+
+

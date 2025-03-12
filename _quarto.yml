@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - blog/posts/support_files/
 
 website:
   title: "Nina Weng"
@@ -13,9 +15,9 @@ website:
       - href: blog
         text: Blogs
       - href: misc
-        text: Miscellaneous
+        text: Responsibility
   page-footer:
-    left: "(c) Nina Weng, built with quarto. Last update: Aug 2024."
+    left: "(c) Nina Weng, built with quarto. Last update: Mar 2025."
 
 format:
   html:

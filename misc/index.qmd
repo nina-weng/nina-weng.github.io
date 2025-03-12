@@ -1,33 +1,73 @@
 ---
-title: Miscellaneous
+title: Responsibility
 ---
 
-#### Academic services
+### Academic services
 
 <table border="0">
   <tr>
-    <td valign="top">Conference/workshop reviewer:&emsp;&emsp; </td>
-    <td>[XAI4CV](https://xai4cv.github.io/) (workshop @ CVPR), 2024<br />[MICCAI](https://conferences.miccai.org/2024/en/default.asp), 2024<br />[FAIMI](https://faimi-workshop.github.io/2024-miccai/) (workshop @ MICCAI), 2024<br />[eXCV](https://excv-workshop.github.io/) (workshop @ ECCV), 2024</td>
+    <td valign="top" style="width: 30%;"><i>Reviewer:&emsp;&emsp; </i></td>
+    <td>
+    [ICCV](https://iccv.thecvf.com/), 2025<br />
+    [MIDL](https://www.midl.io/), 2025<br />
+    [XAI4CV](https://xai4cv.github.io/) (workshop @ CVPR), 2024 & 2025<br />
+    [MICCAI](https://conferences.miccai.org/2024/en/default.asp), 2024 & 2025<br />
+    [FAIMI](https://faimi-workshop.github.io/2024-miccai/) (workshop @ MICCAI), 2024<br />
+    [eXCV](https://excv-workshop.github.io/) (workshop @ ECCV), 2024 
+    </td>
+  </tr>
+   <tr>
+    <td>&nbsp;</td> <!-- This will create a blank line -->
   </tr>
   <tr>
-    <td valign="top">Student project co-supervision: </td>
+    <td valign="top" style="width: 30%;"><i>Academic event organizer:&emsp;&emsp; </i></td>
+    <td>
+    Talk planning team, Talk series at [the Center for Basic Machine Learning in Life Science (MLLS)](https://mlls.dk/), Spring 2024 - Spring 2025
+    </td>
+  </tr>
+   <tr>
+    <td>&nbsp;</td> <!-- This will create a blank line -->
+  </tr>
+  <tr>
+    <td valign="top"><i>Student project supervision: </i></td>
     <td>V. Olesen, Master's level special course: Hidden Bias in Chest X-ray, 2023<br />
     S. Sterlie, Bachelor thesis: Gender Bias in Big Language Models, 2023<br />
     K. B. Ulbæk, Master's level special course: Automatic Label Denoising, 2023<br />
-    G. Nielsen, Bachelor thesis: Investigating Realism Score, 2024
+    G. Nielsen, Bachelor thesis: Investigating Realism Score, 2024<br />
+    F. Jørgensen, Bachelor thesis: Influence Functions for Label Noise, 2024
     </td>
   </tr>
+   <tr>
+    <td>&nbsp;</td> <!-- This will create a blank line -->
+  </tr>
   <tr>
-    <td valign="top">Teaching assistant: </td>
+    <td valign="top"><i>Teaching assistant: </i></td>
     <td>[Deep Learning](https://kurser.dtu.dk/course/02456), DTU, 2023 fall<br />
-    [Responsible AI](https://kurser.dtu.dk/course/02517), DTU, 2024 spring
+    [Responsible AI](https://kurser.dtu.dk/course/02517), DTU, 2024 spring & fall, help to design the course materials
+    </td>
+  </tr>
+   <tr>
+    <td>&nbsp;</td> <!-- This will create a blank line -->
+  </tr>
+  <tr>
+    <td valign="top"><i>Invited talks: </i></td>
+    <td>
+    <ul style="list-style-type: square;">
+    <li>Talk at CX Collaboratory meetup at Pioneer Centre for Artificial Intelligence (Denmark) on <i>“What causes bias? A case study in detecting the sources of gender bias in Chest X-ray automatic diagnosis"</i>, 2023</li>
+    <li>Talk at Workshop In the picture: Medical Imaging Datasets, <i>“Fast diffusion-based counterfactual generation and removal”</i>, 2024</li>
+    </ul>
     </td>
   </tr>
 </table>
 
-#### Voluntary work
+### Voluntary work
 
-- [Long-Legs Mailbox project](http://www.ctss.cn/) (2022 - now), in supporting for left-behind children in rural areas in China. 
-- [Women in Tech](https://womenintech.cn/) (2020 - now), editor and designer.
+Working toward reducing inequality is one of my lifetime goals. Here are some of the volunteer projects I have been involved in or am still engaged with:
+
+- [Long-Legs Mailbox project](http://www.ctss.cn/) (2022 - now), supporting *left-behind children* (who live with grandparents while their parents work far away) in rural China by writing letters to discuss their studies and life. </br>
+Award: Best reply quality of the letters (文情奖), 2024
+
+- [Women in Tech](https://womenintech.cn/) (2020 - now), editor and designer. This initiative began as a group on the Chinese app Douban and has since developed into a larger non-profit with blogs, podcasts, articles, and interviews. 
+- [A Class in Childhood](https://www.tn1k.cn/) (2018-2019), supporting children in primary schools in rural areas of China by teaching online lessons throughout the semester. Course taught: Chinese literature.
 
 
