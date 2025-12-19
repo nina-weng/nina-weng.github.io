@@ -10,14 +10,18 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: research
+        text: Research
       - href: pub
         text: Publications
       - href: blog
         text: Blogs
       - href: misc
         text: Responsibility
+      - href: cv
+        text: CV
   page-footer:
-    left: "(c) Nina Weng, built with quarto. Last update: Mar 2025."
+    left: "(c) Nina Weng, built with quarto. Last update: Dec 2025."
 
 format:
   html:

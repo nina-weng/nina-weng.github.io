@@ -7,8 +7,6 @@ title: Publications
 
 <i>\*Indicates equal contribution</i><br /> <i>In reverse order of publication time</i>
 
-
-
 -   **Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods**<br /> V. Olesen, <ins>N. Weng</ins>, A. Feragen, E. Petersen.<br /> In Workshop on Fairness of AI in Medical Imaging (FAIMI) \@ MICCAI, 2024. [***Oral presentation***]{style="color:rgb(205, 93, 125)"}.<br /> [\[arXiv\]](https://arxiv.org/abs/2406.12142)   [\[code\]](https://github.com/volesen/slicing-through-bias)
 
 -   **Generalizing Fairness to Generative Language Models via Reformulation of Non-discrimination Criteria**<br /> S. Sterlie, <ins>N. Weng</ins>, A. Feragen<br /> In Workshop on Fairness and ethics towards transparent AI: facing the chalLEnge through model Debiasing \@ ECCV, 2024.<br /> [\[arXiv\]](https://arxiv.org/abs/2403.08564)   [\[code\]](https://github.com/sterlie/fairness-criteria-LLM)   [\[news\]](https://www.dtu.dk/english/newsarchive/2024/03/researchers-surprised-by-gender-stereotypes-in-chatgpt)
@@ -28,5 +26,7 @@ title: Publications
 -   **Two-stream temporal convolutional network for dynamic facial attractiveness prediction**<br /> <ins>N. Weng</ins>, J. Wang, A. Li, Y. Wang<br /> In International Conference on Pattern Recognition (ICPR), 2020.<br /> [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9413333/)
 
 ### Pre-prints
+
+-  **Patronus: Bringing Transparency to Diffusion Models with Prototypes**<br /><ins>N. Weng</ins>, A. Feragen, S. Bigdeli<br /> [\[arXiv\]](https://arxiv.org/abs/2503.22782)
 
 -   **Diffusion-based Iterative Counterfactual Explanations for Fetal Ultrasound Image Quality Assessment**<br /> P. Pegios, M. Lin, <ins>N. Weng</ins>, M. B. S. Svendsen, Z. Bashir, S. Bigdeli, A. N. Christensen, M. Tolsgaard, A.Feragen<br /> [\[arXiv\]](https://arxiv.org/abs/2403.08700)

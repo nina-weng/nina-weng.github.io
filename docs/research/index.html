@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Publications – Nina Weng</title>
+<title>Research Overview – Nina Weng</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -92,6 +112,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../research"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../pub"> 
 <span class="menu-text">Publications</span></a>
   </li>  
@@ -120,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Publications</h1>
+<h1 class="title">Research Overview</h1>
 </div>
 
 
@@ -137,33 +161,62 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="publications" class="level3">
-<h3 class="anchored" data-anchor-id="publications">Publications</h3>
-<p><br><i>For a full list of my publications, please visit the <a href="https://scholar.google.com/citations?user=Os3OANQAAAAJ">google scholar page</a>. </i></p>
-<p><i>*Indicates equal contribution</i><br> <i>In reverse order of publication time</i></p>
-<ul>
-<li><p><strong>Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods</strong><br> V. Olesen, <ins>N. Weng</ins>, A. Feragen, E. Petersen.<br> In Workshop on Fairness of AI in Medical Imaging (FAIMI) @ MICCAI, 2024. <span style="color:rgb(205, 93, 125)"><strong><em>Oral presentation</em></strong></span>.<br> <a href="https://arxiv.org/abs/2406.12142">[arXiv]</a> &nbsp; <a href="https://github.com/volesen/slicing-through-bias">[code]</a></p></li>
-<li><p><strong>Generalizing Fairness to Generative Language Models via Reformulation of Non-discrimination Criteria</strong><br> S. Sterlie, <ins>N. Weng</ins>, A. Feragen<br> In Workshop on Fairness and ethics towards transparent AI: facing the chalLEnge through model Debiasing @ ECCV, 2024.<br> <a href="https://arxiv.org/abs/2403.08564">[arXiv]</a> &nbsp; <a href="https://github.com/sterlie/fairness-criteria-LLM">[code]</a> &nbsp; <a href="https://www.dtu.dk/english/newsarchive/2024/03/researchers-surprised-by-gender-stereotypes-in-chatgpt">[news]</a></p></li>
-<li><p><strong>Shortcut Learning in Medical Image Segmentation</strong><br> M. Lin*, <ins>N. Weng</ins>*, K. Mikolaj, Z. Bashir, M. B. S. Svendsen, M. Tolsgaard, A. N. Christensen, A. Feragen<br> In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024.<br> <a href="https://link.springer.com/chapter/10.1007/978-3-031-72111-3_59">[paper]</a> &nbsp;<a href="https://arxiv.org/abs/2403.06748">[arXiv]</a> &nbsp; <a href="https://github.com/nina-weng/shortcut_skinseg">[code]</a></p></li>
-<li><p><strong>Fast diffusion-based counterfactuals for shortcut removal and generation</strong><br> <ins>N. Weng</ins>*, P. Pegios*, E. Petersen, A. Feragen, S. Bigdeli<br> In European Conference on Computer Vision (ECCV), 2024. <span style="color:rgb(205, 93, 125)"><strong><em>Oral presentation (top 2.3%)</em></strong></span>.<br> <a href="https://link.springer.com/chapter/10.1007/978-3-031-73016-0_20">[paper]</a> &nbsp; <a href="https://arxiv.org/abs/2312.14223">[arXiv]</a> &nbsp; <a href="https://fastdime.compute.dtu.dk/">[project page]</a> &nbsp; <a href="https://github.com/nina-weng/FastDiME_Med">[code]</a></p></li>
-<li><p><strong>Are Sex-Based Physiological Differences the Cause of Gender Bias for Chest X-Ray Diagnosis?</strong><br> <ins>N. Weng</ins>, S. Bigdeli, E. Petersen, A. Feragen<br> In Workshop on Fairness of AI in Medical Imaging (FAIMI) @ MICCAI, 2023.<br> <a href="https://link.springer.com/chapter/10.1007/978-3-031-45249-9_14">[paper]</a> &nbsp;<a href="https://arxiv.org/abs/2308.05129">[arXiv]</a> &nbsp; <a href="https://github.com/nina-weng/detecting_causes_of_gender_bias_chest_xrays">[code]</a></p></li>
-<li><p><strong>An Interpretable and Attention-based Method for Gaze Estimation Using Electroencephalography</strong><br> <ins>N. Weng</ins>, M. B. Płomecka, M. Kaufmann, A. Kastrati, R. Wattenhofer, N. Langer<br> In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023.<br> <a href="https://link.springer.com/chapter/10.1007/978-3-031-43895-0_69">[paper]</a> &nbsp;<a href="https://arxiv.org/abs/2308.05768">[arXiv]</a></p></li>
-<li><p><strong>Will you ever become popular? learning to predict virality of dance clips</strong><br> J. Wang, Y. Wang, <ins>N. Weng</ins>, T. Chai, A. Li, F. Zhang, S. Yu<br> In ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).<br> <a href="https://dl.acm.org/doi/abs/10.1145/3477533">[paper]</a> &nbsp;<a href="https://arxiv.org/abs/2111.03819">[arXiv]</a></p></li>
-<li><p><strong>A Second-Order Adaptive Network Model for Exam-Related Anxiety Regulation</strong><br> I. Barradas*, A. Kloc*, <ins>N. Weng</ins>*, J. Treur<br> In Biologically Inspired Cognitive Architectures Meeting, 2021.<br> <a href="https://link.springer.com/chapter/10.1007/978-3-030-96993-6_4">[paper]</a></p></li>
-<li><p><strong>Two-stream temporal convolutional network for dynamic facial attractiveness prediction</strong><br> <ins>N. Weng</ins>, J. Wang, A. Li, Y. Wang<br> In International Conference on Pattern Recognition (ICPR), 2020.<br> <a href="https://ieeexplore.ieee.org/abstract/document/9413333/">[paper]</a></p></li>
-</ul>
+<section id="current-research" class="level3">
+<h3 class="anchored" data-anchor-id="current-research">Current Research</h3>
+<p>The core question driving my research is: <em>How can we make AI models more fair?</em></p>
+<p>This overarching question expands into several sub-questions:</p>
+<ol type="1">
+<li>What does “fair” mean in the context of AI models?</li>
+<li>What happens when a model is unfair, and what causes such unfair performance?</li>
+<li>How can we improve the fairness of AI models?</li>
+</ol>
+<p>Although fairness and explainability are often treated as separate topics in responsible AI, I have found them to be closely interconnected. A key insight from my research is that <strong>without correctly reasoning about bias, mitigation efforts will not succeed</strong>. Therefore, explaining the sources of unfair performance becomes a crucial step toward improving fairness in AI models.</p>
+<p>My current research can be categorized into the following three sub-topics:</p>
+<section id="bias-reasoning" class="level4">
+<h4 class="anchored" data-anchor-id="bias-reasoning">Bias reasoning</h4>
+<p>Understanding and diagnosing AI model behavior to improve robustness from a fairness perspective. In particular, we investigate biased performance between genders in automatic diagnosis from X-rays and identify the source of bias by systematically ruling out potential causes (including underrepresentation, physiological differences, and shortcut learning) <span class="citation" data-cites="weng2023sex">(<a href="#ref-weng2023sex" role="doc-biblioref">Weng et al. 2023</a>)</span>. We found that the bias arises from shortcut learning. Specifically, the model overrelies on the presence of chest drains rather than actual disease features. Because chest drain occurrence differs across genders, this shortcut leads to biased performance. We subsequently implemented a targeted mitigation strategy to address this issue <span class="citation" data-cites="olesen2024slicing">(<a href="#ref-olesen2024slicing" role="doc-biblioref">Olesen et al. 2024</a>)</span>.</p>
 </section>
-<section id="pre-prints" class="level3">
-<h3 class="anchored" data-anchor-id="pre-prints">Pre-prints</h3>
-<ul>
-<li><p><strong>Patronus: Bringing Transparency to Diffusion Models with Prototypes</strong><br><ins>N. Weng</ins>, A. Feragen, S. Bigdeli<br> <a href="https://arxiv.org/abs/2503.22782">[arXiv]</a></p></li>
-<li><p><strong>Diffusion-based Iterative Counterfactual Explanations for Fetal Ultrasound Image Quality Assessment</strong><br> P. Pegios, M. Lin, <ins>N. Weng</ins>, M. B. S. Svendsen, Z. Bashir, S. Bigdeli, A. N. Christensen, M. Tolsgaard, A.Feragen<br> <a href="https://arxiv.org/abs/2403.08700">[arXiv]</a></p></li>
-</ul>
+<section id="revealing-and-detecting-shortcut-learning-with-explainability-methods" class="level4">
+<h4 class="anchored" data-anchor-id="revealing-and-detecting-shortcut-learning-with-explainability-methods">Revealing and detecting shortcut learning with explainability methods</h4>
+<p>Since step-by-step reasoning to identify bias sources is time-consuming, we first explored building an automatic pipeline using generated counterfactual visualizations to detect shortcut learning <span class="citation" data-cites="weng2024fast">(<a href="#ref-weng2024fast" role="doc-biblioref">Weng et al. 2024</a>)</span>. This idea later expanded into a broader line of work on dataset discovery through clustering-based methods (ongoing and unpublished). We also investigated shortcut learning in segmentation tasks <span class="citation" data-cites="lin2024shortcut">(<a href="#ref-lin2024shortcut" role="doc-biblioref">Lin et al. 2024</a>)</span>, which has been largely overlooked in the community, and demonstrated simple yet effective solutions to mitigate bias. These findings further reinforce that identifying the cause of bias allows for much more efficient bias mitigation.</p>
+</section>
+<section id="explainability-in-diffusion-based-generative-models" class="level4">
+<h4 class="anchored" data-anchor-id="explainability-in-diffusion-based-generative-models">Explainability in diffusion-based generative models</h4>
+<p>Research on explainability and bias assessment in generative AI remains limited. I am therefore exploring the interpretability of diffusion-based generative models, which could help detect shortcut learning by improving our understanding of their internal dynamics. To this end, we developed an intrinsically explainable diffusion-based generative model for image generation <span class="citation" data-cites="weng2025patronus">(<a href="#ref-weng2025patronus" role="doc-biblioref">Weng, Feragen, and Bigdeli 2025</a>)</span>.</p>
+</section>
+</section>
+<section id="future-research-directions" class="level3">
+<h3 class="anchored" data-anchor-id="future-research-directions">Future Research Directions</h3>
+<p><em>I’m keeping this part as bullet points for the moment and will polish it later.</em></p>
+<p>I am particularly interested in the following directions:</p>
+<ol type="1">
+<li>When and why bias reasoning matters for bias mitigation.</li>
+<li>Methods for automatic model debugging and dataset discovery.</li>
+<li>Bias sourcing in multi-modality settings.</li>
+<li>Responsible AI for real-world applications and value alignment.</li>
+</ol>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-lin2024shortcut" class="csl-entry" role="listitem">
+Lin, Manxi, Nina Weng, Kamil Mikolaj, Zahra Bashir, Morten BS Svendsen, Martin G Tolsgaard, Anders N Christensen, and Aasa Feragen. 2024. <span>“Shortcut Learning in Medical Image Segmentation.”</span> In <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em>, 623–33. Springer.
+</div>
+<div id="ref-olesen2024slicing" class="csl-entry" role="listitem">
+Olesen, Vincent, Nina Weng, Aasa Feragen, and Eike Petersen. 2024. <span>“Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis Using Slice Discovery Methods.”</span> In <em>MICCAI Workshop on Fairness of AI in Medical Imaging</em>, 3–13. Springer.
+</div>
+<div id="ref-weng2023sex" class="csl-entry" role="listitem">
+Weng, Nina, Siavash Bigdeli, Eike Petersen, and Aasa Feragen. 2023. <span>“Are Sex-Based Physiological Differences the Cause of Gender Bias for Chest x-Ray Diagnosis?”</span> In <em>Workshop on Clinical Image-Based Procedures</em>, 142–52. Springer.
+</div>
+<div id="ref-weng2025patronus" class="csl-entry" role="listitem">
+Weng, Nina, Aasa Feragen, and Siavash Bigdeli. 2025. <span>“Patronus: Bringing Transparency to Diffusion Models with Prototypes.”</span> <em>arXiv Preprint arXiv:2503.22782</em>.
+</div>
+<div id="ref-weng2024fast" class="csl-entry" role="listitem">
+Weng, Nina, Paraskevas Pegios, Eike Petersen, Aasa Feragen, and Siavash Bigdeli. 2024. <span>“Fast Diffusion-Based Counterfactuals for Shortcut Removal and Generation.”</span> In <em>European Conference on Computer Vision</em>, 338–57. Springer.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -589,7 +642,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   <div class="nav-footer">
     <div class="nav-footer-left">
 <ol start="3" type="a">
-<li>Nina Weng, built with quarto. Last update: May 2025.</li>
+<li>Nina Weng, built with quarto. Last update: Dec 2025.</li>
 </ol>
 </div>   
     <div class="nav-footer-center">

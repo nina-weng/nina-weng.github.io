@@ -12,7 +12,7 @@ title: Responsibility
     [MIDL](https://www.midl.io/), 2025<br />
     [XAI4CV](https://xai4cv.github.io/) (workshop @ CVPR), 2024 & 2025<br />
     [MICCAI](https://conferences.miccai.org/2024/en/default.asp), 2024 & 2025<br />
-    [FAIMI](https://faimi-workshop.github.io/2024-miccai/) (workshop @ MICCAI), 2024<br />
+    [FAIMI](https://faimi-workshop.github.io/2024-miccai/) (workshop @ MICCAI), 2024 & 2025<br />
     [eXCV](https://excv-workshop.github.io/) (workshop @ ECCV), 2024 
     </td>
   </tr>
@@ -64,10 +64,15 @@ title: Responsibility
 
 Working toward reducing inequality is one of my lifetime goals. Here are some of the volunteer projects I have been involved in or am still engaged with:
 
+- [High5Girls](https://high5girls.dk/index.php/en/high5girls-english/) (2025 - now). Work TBD.
+
+- [RISE-MICCAI](https://miccai.org/index.php/about-miccai/rise-miccai/) (2025 - now). Storytelling coordinator.
+
 - [Long-Legs Mailbox project](http://www.ctss.cn/) (2022 - now), supporting *left-behind children* (who live with grandparents while their parents work far away) in rural China by writing letters to discuss their studies and life. </br>
 Award: Best reply quality of the letters (文情奖), 2024
 
-- [Women in Tech](https://womenintech.cn/) (2020 - now), editor and designer. This initiative began as a group on the Chinese app Douban and has since developed into a larger non-profit with blogs, podcasts, articles, and interviews. 
+- [Women in Tech](https://womenintech.cn/) (2020 - now), editor and designer. This initiative began as a group on the Chinese app Douban and has since developed into a larger non-profit with blogs, podcasts, articles, and interviews.
+
 - [A Class in Childhood](https://www.tn1k.cn/) (2018-2019), supporting children in primary schools in rural areas of China by teaching online lessons throughout the semester. Course taught: Chinese literature.
 
 

@@ -1,0 +1,4 @@
+---
+title: CV
+---
+[Download my CV (PDF)](cv_ninaweng_dec25.pdf){target="_blank"}
