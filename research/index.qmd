@@ -3,38 +3,39 @@ title: Research Overview
 bibliography: ref.bib
 ---
 
-
 ### Current Research
-
 
 The core question driving my research is: *How can we make AI models more fair?*
 
 This overarching question expands into several sub-questions:
 
-1. What does “fair” mean in the context of AI models?
-2. What happens when a model is unfair, and what causes such unfair performance?
-3. How can we improve the fairness of AI models?
+1.  What does “fair” mean in the context of AI models?
+2.  What happens when a model is unfair, and what causes such unfair performance?
+3.  How can we improve the fairness of AI models?
 
 Although fairness and explainability are often treated as separate topics in responsible AI, I have found them to be closely interconnected. A key insight from my research is that **without correctly reasoning about bias, mitigation efforts will not succeed**. Therefore, explaining the sources of unfair performance becomes a crucial step toward improving fairness in AI models.
 
 My current research can be categorized into the following three sub-topics:
 
 #### Bias reasoning
+
 Understanding and diagnosing AI model behavior to improve robustness from a fairness perspective. In particular, we investigate biased performance between genders in automatic diagnosis from X-rays and identify the source of bias by systematically ruling out potential causes (including underrepresentation, physiological differences, and shortcut learning) [@weng2023sex]. We found that the bias arises from shortcut learning. Specifically, the model overrelies on the presence of chest drains rather than actual disease features. Because chest drain occurrence differs across genders, this shortcut leads to biased performance. We subsequently implemented a targeted mitigation strategy to address this issue [@olesen2024slicing].
 
 #### Revealing and detecting shortcut learning with explainability methods
+
 Since step-by-step reasoning to identify bias sources is time-consuming, we first explored building an automatic pipeline using generated counterfactual visualizations to detect shortcut learning [@weng2024fast]. This idea later expanded into a broader line of work on dataset discovery through clustering-based methods (ongoing and unpublished). We also investigated shortcut learning in segmentation tasks [@lin2024shortcut], which has been largely overlooked in the community, and demonstrated simple yet effective solutions to mitigate bias. These findings further reinforce that identifying the cause of bias allows for much more efficient bias mitigation.
 
-
 #### Explainability in diffusion-based generative models
+
 Research on explainability and bias assessment in generative AI remains limited. I am therefore exploring the interpretability of diffusion-based generative models, which could help detect shortcut learning by improving our understanding of their internal dynamics. To this end, we developed an intrinsically explainable diffusion-based generative model for image generation [@weng2025patronus].
 
 ### Future Research Directions
+
 *I’m keeping this part as bullet points for the moment and will polish it later.*
 
 I am particularly interested in the following directions:
 
-1. When and why bias reasoning matters for bias mitigation.
-2. Methods for automatic model debugging and dataset discovery.
-3. Bias sourcing in multi-modality settings.
-4. Responsible AI for real-world applications and value alignment.
+1.  When and why bias reasoning matters for bias mitigation.
+2.  Methods for automatic model debugging and dataset discovery.
+3.  Bias sourcing in multi-modality settings.
+4.  Responsible AI for real-world applications and value alignment.

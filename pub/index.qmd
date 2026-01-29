@@ -3,9 +3,17 @@ title: Publications
 ---
 
 ### Publications
+
 <br /><i>For a full list of my publications, please visit the [google scholar page](https://scholar.google.com/citations?user=Os3OANQAAAAJ). </i>
 
 <i>\*Indicates equal contribution</i><br /> <i>In reverse order of publication time</i>
+
+
+-   **Patronus: Interpretable Diffusion Models with Prototypes**<br /><ins>N. Weng</ins>, A. Feragen, S. Bigdeli<br /> Accepted by ICLR 2026.<br /> [\[arXiv\]](https://arxiv.org/abs/2503.22782)  [\[code\]](https://github.com/nina-weng/patronus) 
+
+-   **Diffusion-based Iterative Counterfactual Explanations for Fetal Ultrasound Image Quality Assessment**<br /> P. Pegios, M. Lin, <ins>N. Weng</ins>, M. B. S. Svendsen, Z. Bashir, S. Bigdeli, A. N. Christensen, M. Tolsgaard, A.Feragen<br /> In International Workshop on Advances in Simplifying Medical Ultrasound \@ MICCAI, 2025. <br />  [\[arXiv\]](https://arxiv.org/abs/2403.08700)
+
+- **In the picture: Medical imaging datasets, artifacts, and their living review**<br /> A. Jiménez-Sánchez, N. Avlona, S. de Boer, V. M. Campello, A. Feragen, E. Ferrante, M. Ganz, J. W. Gichoya, C. Gonzalez, S. Groefsema, A. Hering, A. Hulman, L. Joskowicz, D. Juodelyte, M. Kandemir, T. Kooi, J. del Pozo Lérida, L. Y. Li, A. Pacheco, T. Rädsch, M. Reyes, T. Sourget, B. van Ginneken, D. Wen, <ins>N. Weng</ins>, J. J. Xu, H. D. Zajaç, M. A. Zuluaga, V. Cheplygina  <br /> In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2025. <br /> [\[arXiv\]](https://arxiv.org/abs/2501.10727)
 
 -   **Slicing Through Bias: Explaining Performance Gaps in Medical Image Analysis using Slice Discovery Methods**<br /> V. Olesen, <ins>N. Weng</ins>, A. Feragen, E. Petersen.<br /> In Workshop on Fairness of AI in Medical Imaging (FAIMI) \@ MICCAI, 2024. [***Oral presentation***]{style="color:rgb(205, 93, 125)"}.<br /> [\[arXiv\]](https://arxiv.org/abs/2406.12142)   [\[code\]](https://github.com/volesen/slicing-through-bias)
 
@@ -27,6 +35,6 @@ title: Publications
 
 ### Pre-prints
 
--  **Patronus: Bringing Transparency to Diffusion Models with Prototypes**<br /><ins>N. Weng</ins>, A. Feragen, S. Bigdeli<br /> [\[arXiv\]](https://arxiv.org/abs/2503.22782)
+-   **SEG4SEG: Identifying Systematic Failure Modes in Segmentation by Subgroup Discovery Methods**<br /><ins>N. Weng</ins>, E. Petersen, A. Bissoto, S. Sun, L. M. Koch, A. Feragen, S. Bigdeli, C. F. Baumgartner<br /> [\[openreview\]](https://openreview.net/forum?id=dbZEIwiAon)
 
--   **Diffusion-based Iterative Counterfactual Explanations for Fetal Ultrasound Image Quality Assessment**<br /> P. Pegios, M. Lin, <ins>N. Weng</ins>, M. B. S. Svendsen, Z. Bashir, S. Bigdeli, A. N. Christensen, M. Tolsgaard, A.Feragen<br /> [\[arXiv\]](https://arxiv.org/abs/2403.08700)
+

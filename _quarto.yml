@@ -21,13 +21,18 @@ website:
       - href: cv
         text: CV
   page-footer:
-    left: "(c) Nina Weng, built with quarto. Last update: Dec 2025."
+    left: "(c) Nina Weng, built with quarto. Last update: Jan 2026."
 
 format:
   html:
     theme:
       light: cosmo
+    css: styles.css
     toc: false
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://cdn.jsdelivr.net">
+          <link href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css" rel="stylesheet">
 
 editor: visual
 
