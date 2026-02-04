@@ -6,7 +6,7 @@ title: Responsibility
 
 <table border="0">
   <tr>
-    <td valign="top" style="width: 30%;"><i>Reviewer:&emsp;&emsp; </i></td>
+    <td valign="top" style="width: 30%;"><i>Reviewer - conference:&emsp;&emsp; </i></td>
     <td>
     [ICLR](https://iclr.cc/), 2026<br />
     [ICCV](https://iccv.thecvf.com/), 2025<br />
@@ -15,6 +15,15 @@ title: Responsibility
     [MICCAI](https://conferences.miccai.org/2024/en/default.asp), 2024 & 2025<br />
     [FAIMI](https://faimi-workshop.github.io/2024-miccai/) (workshop @ MICCAI), 2024 & 2025<br />
     [eXCV](https://excv-workshop.github.io/) (workshop @ ECCV), 2024 
+    </td>
+  </tr>
+   <tr>
+    <td>&nbsp;</td> <!-- This will create a blank line -->
+  </tr>
+  <tr>
+    <td valign="top" style="width: 30%;"><i>Reviewer - journal:&emsp;&emsp; </i></td>
+    <td>
+    Machine Learning for Biomedical Imaging ([MELBA](https://www.melba-journal.org/)), 2025 - now
     </td>
   </tr>
    <tr>
