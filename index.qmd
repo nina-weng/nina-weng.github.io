@@ -34,7 +34,7 @@ My research centers on the reliability, interpretability, and fairness of ML sys
 
 
 ### News
-- **Jan, 2026** [Patronus](https://arxiv.org/abs/2503.22782) paper got accepted by [ICLR 2026](https://iclr.cc/):) I am happy that it does not need to get through the ICML reviewing process again. My feeling about this acceptance is complicated; I am working on a side project about it and hopefully I will finish it before Feb and release it (it's my reflection on our current publication model).
+- **Jan, 2026** [Patronus](https://nina-weng.github.io/patronus.github.io/) paper got accepted by [ICLR 2026](https://iclr.cc/):) I am happy that it does not need to get through the ICML reviewing process again. My feeling about this acceptance is complicated; I am working on a side project about it and hopefully I will finish it before Feb and release it (it's my reflection on our current publication model).
 - **Dec, 2025** Awww I was apparently very lazy in updating here! Several things I would like to mention: 
 (1) After join RISE-MICCAI and High5Girls, amazing things happened! 
 For RISE-MICCAI, as an storytelling coordinator, the idea is that: true life journey warm and encourage people, thus we aim at collect and share those inspiring stories especially from researchers from LMIC countries. We have already have 2 episodes with [Dr. Andrea Lara](https://www.linkedin.com/in/andrea-lara-/?locale=en_US) and [Dr. Islem Rekik](https://www.linkedin.com/in/islem-rekik-basira/?originalSubdomain=uk). You can check our [Youtube\@RISEMICCAI](https://www.youtube.com/@RISEMICCAI) and [Spotify](https://open.spotify.com/show/71eh9VdcRVYZyZuBJoZGpk?si=f6a060414bb14346)! 
